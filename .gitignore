@@ -21,3 +21,11 @@ git init
 # OS
 .DS_Store
 Thumbs.db
+
+__pycache__/
+*.pyc
+db.sqlite3
+venv/
+.venv/
+.env
+staticfiles/
